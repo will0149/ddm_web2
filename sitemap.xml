@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://www.danieldmar.com/</loc>
+        <lastmod>2025-09-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://www.danieldmar.com/assets/images/banner.png</image:loc>
+            <image:title>Daniel Del Mar Food Styling</image:title>
+            <image:caption>Especialista en food styling con más de 30 años de experiencia en Panamá</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.danieldmar.com/images.html</loc>
+        <lastmod>2025-09-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.danieldmar.com/assets/thumbs/DDM-foodstyling-01-min.png</image:loc>
+            <image:title>Elegant food presentation by Daniel Del Mar</image:title>
+            <image:caption>Professional food styling and culinary photography</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.danieldmar.com/assets/thumbs/DDM-foodstyling-02-min.png</image:loc>
+            <image:title>Pasta dish food styling</image:title>
+            <image:caption>Professional pasta styling for commercial photography</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.danieldmar.com/assets/thumbs/DDM-foodstyling-05-min.png</image:loc>
+            <image:title>Traditional Panamanian cuisine styling</image:title>
+            <image:caption>Food styling for traditional Panamanian dishes</image:caption>
+        </image:image>
+    </url>
+</urlset>
