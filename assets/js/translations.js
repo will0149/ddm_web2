@@ -7,6 +7,9 @@ const translations = {
     "nav-portafolio": "Portafolio",
     "nav-contacto": "Contacto",
 
+    // Hero CTA
+    "hero-cta": "Trabajemos juntos",
+
     // Carousel
     "carousel-1-title": "Estilización Profesional",
     "carousel-1-desc": "Cada platillo es una obra de arte culinaria. Con más de 30 años de experiencia, transformo alimentos en visuales cautivadores para sus campañas publicitarias.",
@@ -18,13 +21,19 @@ const translations = {
     "carousel-4-desc": "Contenido visual impactante para redes sociales y plataformas digitales. Diseñado para aumentar engagement y convertir seguidores en clientes.",
 
     // Sección Sobre Mí
+    "sobre-mi-pre": "Soy",
+    "sobre-mi-nombre": "Daniel Del Mar",
     "sobre-mi-title": "Bienvenido, Soy Daniel Del Mar!",
     "sobre-mi-desc1": "Especialista en estilización de alimentos con más de 30 años de experiencia en Panamá. Transformo productos alimenticios en obras visuales irresistibles para comerciales, fotografía publicitaria y campañas digitales.",
     "sobre-mi-desc2": "Mi pasión por la gastronomía y la fotografía me ha permitido desarrollar un estilo único que resalta la belleza natural de cada platillo. Cada proyecto es una oportunidad para crear arte culinario que inspira y atrae.",
     "sobre-mi-btn": "Contáctame",
+    "stat-anos": "Años de Experiencia",
+    "stat-proyectos": "Proyectos",
+    "stat-panama": "Panamá",
 
     // Servicios
     "servicios-title": "Mis Servicios",
+    "servicios-subtitle": "Lo que ofrezco",
     "servicio-1-title": "Estilización de alimentos para fotos y videos",
     "servicio-1-desc": "Servicios profesionales de food styling para sesiones fotográficas, videos y comerciales de TV de alta calidad. Cada platillo es una obra de arte culinaria lista para brillar en pantalla.",
     "servicio-2-title": "Talleres y tutorías",
@@ -32,10 +41,11 @@ const translations = {
 
     // Portafolio
     "portafolio-title": "Portafolio",
+    "portafolio-subtitle": "Trabajos Destacados",
     "portafolio-desc": "Algunos de mis trabajos más destacados en food styling y fotografía culinaria",
 
     // Contacto
-    "contacto-title": "Contactame",
+    "contacto-title": "Trabajemos juntos",
     "contacto-desc": "¿Cómo puedo ayudarte?",
     "contacto-desc2": "Estilización de alimentos para fotos y videos?",
     "contacto-desc3": "Talleres y tutorias",
@@ -73,6 +83,9 @@ const translations = {
     "nav-portafolio": "Portfolio",
     "nav-contacto": "Contact",
 
+    // Hero CTA
+    "hero-cta": "Let's work together",
+
     // Carousel
     "carousel-1-title": "Professional Styling",
     "carousel-1-desc": "Every dish is a culinary work of art. With more than 30 years of experience, I transform food into captivating visuals for your advertising campaigns.",
@@ -84,13 +97,19 @@ const translations = {
     "carousel-4-desc": "Impactful visual content for social media and digital platforms. Designed to increase engagement and convert followers into customers.",
 
     // Sección Sobre Mí
+    "sobre-mi-pre": "I'm",
+    "sobre-mi-nombre": "Daniel Del Mar",
     "sobre-mi-title": "Welcome, I'm Daniel Del Mar!",
     "sobre-mi-desc1": "Food styling specialist with more than 30 years of experience in Panama. I transform food products into irresistible visual works for commercials, advertising photography and digital campaigns.",
     "sobre-mi-desc2": "My passion for gastronomy and photography has allowed me to develop a unique style that highlights the natural beauty of each dish. Every project is an opportunity to create culinary art that inspires and attracts.",
     "sobre-mi-btn": "Contact Me",
+    "stat-anos": "Years of Experience",
+    "stat-proyectos": "Projects",
+    "stat-panama": "Panama",
 
     // Servicios
     "servicios-title": "My Services",
+    "servicios-subtitle": "What I offer",
     "servicio-1-title": "Food styling for photos and videos",
     "servicio-1-desc": "Professional food styling services for photography sessions, videos and high-quality TV commercials. Every dish is a culinary work of art ready to shine on screen.",
     "servicio-2-title": "Workshops and tutoring",
@@ -98,10 +117,11 @@ const translations = {
 
     // Portafolio
     "portafolio-title": "Portfolio",
+    "portafolio-subtitle": "Featured Work",
     "portafolio-desc": "Some of my most outstanding work in food styling and culinary photography",
 
     // Contacto
-    "contacto-title": "Contact Me",
+    "contacto-title": "Let's work together",
     "contacto-desc": "How can I help you?",
     "contacto-desc2": "Food styling for photos and videos?",
     "contacto-desc3": "Workshops and tutoring",
